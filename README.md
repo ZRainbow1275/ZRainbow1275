@@ -1,7 +1,7 @@
 <h2 align="center">ZRAINBOW // 方寒</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZRainbow1275&label=%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0&color=F5A623&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ZRainbow1275&label=VIEWS&color=F5A623&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
