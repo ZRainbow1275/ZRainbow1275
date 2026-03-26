@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://x.com/zrainbo" target="_blank"><img src="https://img.shields.io/badge/X-@zrainbo-F0F4F8?style=flat-square&logo=x&logoColor=1DA1F2" alt="X" /></a>
+  <a href="https://linux.do/u/zrainbo" target="_blank"><img src="https://img.shields.io/badge/LINUX%20DO-@zrainbo-F0F4F8?style=flat-square&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDEyMCAxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCiAgICA8Y2xpcFBhdGggaWQ9ImEiPjxjaXJjbGUgY3g9IjYwIiBjeT0iNjAiIHI9IjQ3Ii8%2BPC9jbGlwUGF0aD4KICAgIDxjaXJjbGUgZmlsbD0iI2YwZjBmMCIgY3g9IjYwIiBjeT0iNjAiIHI9IjUwIi8%2BCiAgICA8cmVjdCBmaWxsPSIjMWMxYzFlIiBjbGlwLXBhdGg9InVybCgjYSkiIHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIzMCIvPgogICAgPHJlY3QgZmlsbD0iI2YwZjBmMCIgY2xpcC1wYXRoPSJ1cmwoI2EpIiB4PSIxMCIgeT0iNDAiIHdpZHRoPSIxMDAiIGhlaWdodD0iNDAiLz4KICAgIDxyZWN0IGZpbGw9IiNmZmIwMDMiIGNsaXAtcGF0aD0idXJsKCNhKSIgeD0iMTAiIHk9IjgwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjMwIi8%2BCjwvc3ZnPg%3D%3D" alt="LINUX DO" /></a>
   <a href="mailto:hybridrevis@gmail.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-hybridrevis@gmail.com-F0F4F8?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="javascript:void(0);"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-niceday1257-F0F4F8?style=flat-square&logo=wechat&logoColor=07C160" title="微信号: niceday1257" alt="WeChat" /></a>
 </p>
